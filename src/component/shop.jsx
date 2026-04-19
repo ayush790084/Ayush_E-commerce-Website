@@ -289,7 +289,6 @@ export default function Shop() {
               </li>
             </ul>
           </div>
-
           <div>
             <h3 className="text-xl font-semibold text-black mb-3">Follow Us</h3>
             <div className="flex gap-4">
