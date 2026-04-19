@@ -22,7 +22,9 @@ https://ayush-e-commerce-website.vercel.app/
 
 ## 🖼️ Screenshots
 <img width="1820" height="816" alt="image" src="https://github.com/user-attachments/assets/d056fb46-1ae2-42ed-a3d6-bca59f3cfa34" />
+
 <img width="1844" height="651" alt="image" src="https://github.com/user-attachments/assets/abb54f7b-1a35-423b-af9a-0c95635e3f19" />
+
 <img width="1820" height="816" alt="image" src="https://github.com/user-attachments/assets/0f852b4d-e172-4157-90b1-b3af5f1af3f1" />
 
 ---
