@@ -294,19 +294,16 @@ export default function Shop() {
             <h3 className="text-xl font-semibold text-black mb-3">Follow Us</h3>
             <div className="flex gap-4">
               <a
-                href="https://www.instagram.com/"
                 className="p-2 rounded-full bg-black hover:bg-gray-700 text-red-400"
               >
                 <FaInstagram />
               </a>
               <a
-                href="https://github.com/Tanveer-react"
                 className="p-2 rounded-full bg-black hover:bg-gray-700 text-white"
               >
                 <FaGithub />
               </a>
               <a
-                href="https://www.linkedin.com/in/tanveer-khan-devolper/"
                 className="p-2 rounded-full bg-black hover:bg-gray-700 text-blue-600"
               >
                 <FaLinkedin />
